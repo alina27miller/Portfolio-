@@ -33,7 +33,7 @@ function HeroSection() {
             .
           </h1>
 
-          <div className="my-12 flex items-center gap-5">
+          {/* <div className="my-12 flex items-center gap-5">
             <Link
               href={personalData.github}
               target='_blank'
@@ -63,7 +63,7 @@ function HeroSection() {
               <span>Get Resume</span>
               <MdDownload size={16} />
             </Link>
-          </div>
+          </div> */}
 
         </div>
         <div className="order-1 lg:order-2 from-[#0d1224] border-[#1b2c68a0] relative rounded-lg border bg-gradient-to-r to-[#0a0d37]">
